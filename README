@@ -1,0 +1,5 @@
+# Installtion
+
+- clone the repo
+- run `npm install` in root of the project folder
+- run `npm run test` for executing all the test code.
